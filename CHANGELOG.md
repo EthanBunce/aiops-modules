@@ -14,6 +14,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### **Changed**
 - updated manifests to idf release 1.12.0
+- updated MWAA to 2.10.1
+- updated MWAA constraints
 
 ## v1.6.0
 
